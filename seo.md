@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Seo
-permalink: /content/
+permalink: /seo/
 ---
 
-<div id="stuff">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus molestiae fuga atque officiis, laborum eveniet itaque vitae ut dignissimos quaerat nesciunt maiores asperiores quo, consequuntur expedita praesentium voluptatum, fugit nostrum.
-</div>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. A impedit assumenda ipsum commodi perferendis minus minima quidem cum culpa vel saepe nostrum, vitae voluptate labore, aspernatur cumque quasi repudiandae nulla?
